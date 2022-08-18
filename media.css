@@ -1,0 +1,6 @@
+@media screen and (max-width: 760px) {
+    li{
+        display: inline-block;
+        margin: 0 10px;
+    }
+}
